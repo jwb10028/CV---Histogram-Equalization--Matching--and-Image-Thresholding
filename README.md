@@ -1,7 +1,3 @@
-Here's a draft of a README for your GitHub repository:
-
----
-
 # Computer Vision: Histogram Equalization, Matching, and Image Thresholding
 
 ## Overview
