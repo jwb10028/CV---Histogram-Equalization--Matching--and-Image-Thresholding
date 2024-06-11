@@ -101,10 +101,6 @@ To use the code in this repository:
    - For histogram matching: `python histogram_matching.py`
    - For image thresholding: `python image_thresholding.py`
 
-## Results
-
-The results for each technique are saved in the `results` directory. Each subdirectory contains the processed images, histograms, and CDFs.
-
 ## References
 
 - Zeng, S., & Otsu, N. (n.d.). Transactions on systems, man, and Cybernetics. Xing zheng yuan guo ke hui ke zi zhong xin.
