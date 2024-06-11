@@ -110,5 +110,3 @@ The results for each technique are saved in the `results` directory. Each subdir
 - Zeng, S., & Otsu, N. (n.d.). Transactions on systems, man, and Cybernetics. Xing zheng yuan guo ke hui ke zi zhong xin.
 
 ---
-
-Feel free to modify the paths to the images, the repository URL, and any other details as needed.
